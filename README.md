@@ -13,15 +13,16 @@ Essentially it is not defined in actions necessarily; it mostly is defined by ho
 There is a lot of ways to apply this way of thinking in your everyday life some of these examples are:
 1.	The first is to start embracing the challenges you have instead of avoiding them.
 2.	Facing the obstacles with concentration and not lose your focus or interest with the task.
-3.	Try to embrace effort and what comes out of it (no pain no gain); and not be lazy or afraid of putting some effort in tasks.
+3.	Try to embrace effort and what comes out of it **(no pain no gain)**; and not be lazy or afraid of putting some effort in tasks.
 4.	Deal more positively with criticism and do not take it as if they were just personal.
 5.	Look up to people who are successful around you and not in jealous way; try to learn from them.
 
 
 You can change the static thinking you’re putting yourself in by doing something fun and diversion of the task you think is putting you in static thinking. Personally there is a lot of activities I do to put me in growth mindset here are some examples:
-•	Going for a walk.
-•	Have a snack.
-•	Take a shower.
+
+-	Going for a walk.
+-	Have a snack.
+-	Take a shower.
 
  
 
