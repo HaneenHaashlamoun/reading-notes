@@ -8,8 +8,8 @@ Hello my name is Haneen Hashlamoun im 32 years I have Computer Technology Diplom
 
 | Table of content      | Links |
 | ----------- | ----------- |
-| growth-mindset      | [link](https://replit.com/@HaneenHatem89/reading-notes#GrowthMindset.md)       |
-| read01   | [link](https://replit.com/@HaneenHatem89/reading-notes#Read01.md)        |
+| growth-mindset      | [link](https://haneenhaashlamoun.github.io/reading-notes/GrowthMindset)       |
+| read01   | [link](https://haneenhaashlamoun.github.io/reading-notes/Read01)        |
 
 
 
