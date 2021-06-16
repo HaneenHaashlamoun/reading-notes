@@ -11,5 +11,6 @@ Hello my name is Haneen Hashlamoun im 32 years I have Computer Technology Diplom
 | growth-mindset      | [link](https://haneenhaashlamoun.github.io/reading-notes/GrowthMindset)       |
 | read01   | [link](https://haneenhaashlamoun.github.io/reading-notes/Read01)        |
 | read02 |[link](https://haneenhaashlamoun.github.io/reading-notes/read02)|
-
+| read03 |[link](https://haneenhaashlamoun.github.io/reading-notes/read03)|
+| read04 |[link](https://haneenhaashlamoun.github.io/reading-notes/read04)|
 
