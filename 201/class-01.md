@@ -22,25 +22,25 @@ Tags usually come in pairs (example : `<p></p>`). The opening tag (`<p>`)and the
 *for example :*
 
 
-`<html>`
-
-`<head>`
-
-`<title> Title of the Page </title>`
-
-`</head>`
-
-`<body>`
-
-`<h2> Sub-Heading </h2>`
-
-`<h1> Heading </h1>`
-
-`<p> Paragraph <p>`
-
-`</body>`
-
-`</html>`
+>`<html>`
+>
+>`<head>`
+>
+>`<title> Title of the Page </title>`
+>
+>`</head>`
+>
+>`<body>`
+>
+>`<h2> Sub-Heading </h2>`
+>
+>`<h1> Heading </h1>`
+>
+>`<p> Paragraph <p>`
+>
+>`</body>`
+>
+>`</html>`
 
 #### **Tags Attributes** 
 
@@ -97,17 +97,105 @@ removed).
 ### DOCTYPEs
 Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using (although browsers usually display the page even if it is not included).
 
-- HTML5: `<!DOCTYPE html>`
+- HTML5: 
+>`<!DOCTYPE html>`
 
-- HTML4: `<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional// EN" "http://www.w3.org/TR/html4/loose.dtd">`.
+- HTML4: 
+>`<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional// EN" "http://www.w3.org/TR/html4/loose.dtd">`.
 
-- Transitional XHTML 1.0: `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0  Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/ xhtml1-transitional.dtd">`.
+- Transitional XHTML 1.0: 
+>`<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0  Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/ xhtml1-transitional.dtd">`.
 
-- Strict XHTML 1.0: `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0  Strict//EN""http://www.w3.org/TR/xhtml1/DTD/ xhtml1-Strict.dtd">`.
+- Strict XHTML 1.0: 
+>`<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0  Strict//EN""http://www.w3.org/TR/xhtml1/DTD/ xhtml1-Strict.dtd">`.
 
-- XML Declaration: `<?xml version="1.0" ?>`.
+- XML Declaration: 
+>`<?xml version="1.0" ?>`.
 
 
 ![evolution](https://image.slidesharecdn.com/html5sgce2012-120626104830-phpapp02/95/everything-you-need-to-know-about-html5-in-15-min-3-728.jpg?cb=1340710247)
+
+### Comments IN HTML 
+
+If you want to add a comment to your code that will not be visible in the  user's browser, you can add the text between these characters like this:
+
+`<!-- comment goes here -->`
+
+### Other HTML Features 
+### (Attributes & Elements)
+
+
+- The id and class attributes allow you to identify
+particular elements.
+- The `<div>` and `<span>` elements allow you to group
+block-level and inline elements together.
+- `<iframes>` cut windows into your web pages through
+which other pages can be displayed.
+- The `<meta>` tag allows you to supply all kinds of
+information about your web page.
+- Escape characters are used to include special
+characters in your pages such as <, >, and ©.
+
+--------------------------
+
+## HTML5 Layout
+
+ - Traditional HTML Layouts 
+ For a long time, web page authors used `<div>` elements to group together related elements on the page (such as the elements that form a header, an article, footer or sidebar). Authors used class or id attributes to indicate  the role of the `<div>` element in the structure of the page.
+
+- New Html 5 Layout Elements
+HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find  in them. They are still subject to change, but that has not stopped many web  page authors using them already.
+
+**These are some elements of HTML5**
+- Headers & Footers `<header> <footer>`
+- Navigation `<nav>`
+- Articles `<article>`
+- Asides `<aside>`
+- Sections `<section>`
+- Heading Groups `<hgroup>`
+- Figures `<figure> <figcaption>`
+- Sectioning Elements `<div>`
+
+
+**Helping Older Browsers Understand**
+
+Older browsers that do not know the new HTML5 elements will automatically treat them as inline elements. Therefore, to help older browsers, you should include  the line of CSS on the left which states which new elements should be rendered  as block-level elements. 
+You do not need to understand JavaScript to use it. You can just link to a copy that Google hosts on its servers. It should be placed inside a conditional comment which checks if the browser version is less than (hence the lt) IE9.
+
+>`<!--[if lt IE 9]>`
+>`<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>`
+>`<![endif]-->`
+
+----------------------------
+----------------------------
+
+*LAST But not LEAST*
+
+## Process & Design
+
+- **You need to know How to approach building a site**
+- **You need to Understanding your audience and their needs**
+- **You need to know How to present information visitors want to see**
+
+#### **Step 1 : you need to ask these questions :**
+
+- Who is the Site For? 
+Every website should be designed for the target audience—not just for yourself  or the site owner. It is therefore very important to understand who your target audience is.
+
+- Why People Visit YOUR Website ?
+Now that you know who your visitors are, you need to consider why they are  coming. While some people will simply chance across your website, most will  visit for a specific reason.
+
+- What Information Your Visitors Need ?
+You know who is coming to your site and why they are coming, so now you need to work out what information they need in order to achieve their goals quickly and effectively.
+
+- How Of ten People Will Visit Your Site ?
+Some sites benefit from being updated more frequently than others. Some  information (such as news) may be constantly changing, while other content  remains relatively static.
+
+
+#### **Step 2 : Site Maps**
+
+Now that you know what needs to appear on your site, you can start to organize  the information into sections or pages.
+
+#### **Step 2 : WireFrames**
 
 
