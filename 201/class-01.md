@@ -9,6 +9,9 @@
 ### What is HTML?
 
 Known as “Hypertext Markup Language”, it is a standardised system for tagging text files to achieve font, colour, graphic and hyperlink effects on World Wide Web (WWW) pages. Other technologies besides HTML are used to describe a web page’s look (CSS) or interaction (JavaScript).
+
+**PS**: for the **JavaScript** page click **[here](https://haneenhaashlamoun.github.io/reading-notes/201/class-01a)** 
+
 HTML job is to describes the structure of pages.
 The HTML code is made up of characters that live inside angled
 brackets (`<>`) ; Tags are often referred to as elements.
@@ -253,3 +256,4 @@ Good navigation tends to follow these principles...
 ![navbar](https://www.orbitmedia.com/wp-content/uploads/2016/09/website-navigation-primary-nav.jpg)
 
 
+all rights reserved to Copyright: © *HTML & CSS Design and Build Websites* by **Jon Duckett**
