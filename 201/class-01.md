@@ -196,6 +196,60 @@ Some sites benefit from being updated more frequently than others. Some  informa
 
 Now that you know what needs to appear on your site, you can start to organize  the information into sections or pages.
 
-#### **Step 2 : WireFrames**
+![sitemap](https://justmakeawebsite.com/wp-content/uploads/2020/05/sitemap-template.jpg)
+
+
+#### **Step 3 : WireFrames**
+A wireframe is a simple sketch of the key information that needs  to go on each page of a site. It shows the hierarchy of the  information and how much space it might require.
+
+![WireFrames](https://i.pinimg.com/originals/08/66/8b/08668befd34d816306ca9013a1ae9e3d.png)
+
+#### **Step 4 : Getting your message across using design**
+
+The primary aim of any kind of visual design is to communicate.  Organizing and prioritizing information on a page helps users  understand its importance and what order to read it in.
+and you need to cover these 3 points :
+
+    1- CONTENT: Web pages often have a lot of information to communicate.
+    
+    2- Prioritizing: By making parts of the page look distinct from surrounding content, designers draw attention to (or away from) those items.
+
+    3- Organizing: Grouping together related content into blocks or chunks makes the page look simpler (and easier to understand).
+
+#### **Step 5 : Visual hierarchy**
+
+Most web users do not read entire pages. Rather, they skim to find
+information. You can use contrast to create a visual hierarchy that gets
+across your key message and helps users find what they are looking for.
+By controling (Size, Color and Style)
+
+Visual hierarchy refers to the order in which your eyes perceive what
+they see. It is created by adding visual contrast between the items being
+displayed. Items with higher contrast are recognized and processed first.
+
+*example for step 4 & 5*
+
+![webpage](https://i.pinimg.com/originals/be/bc/33/bebc33eb19d2142725256746f892d1cd.jpg)
+
+
+#### **Step 6 : grouping and Similarity**
+
+When making sense of a design, we tend to organize visual elements
+into groups. Grouping related pieces of information together can make a
+design easier to comprehend. Here are some ways this can be achieved.
+
+
+#### **Step 7 : Designing Navigation**
+
+Site navigation not only helps people find where they want to go, but also
+helps them understand what your site is about and how it is organized.
+Good navigation tends to follow these principles...
+
+- **Concise** Ideally, the navigation should be quick and easy to read. It is a good idea to try to limit the number of options in a menu to no more  than eight links. These can link to section homepages which in turn link to other pages.
+
+- **Clear** Users should be able to predict the kind of information that they will find on the page before clicking on the link. Where possible,  choose single descriptive words for each link rather than phrases.
+
+- **Selective** The more pages a site contains, the larger the number of navigation items there will be. Although secondary navigation will change  from page to page, it is best to keep the primary navigation exactly the  same.
+
+![navbar](https://www.orbitmedia.com/wp-content/uploads/2016/09/website-navigation-primary-nav.jpg)
 
 
