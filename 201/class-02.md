@@ -69,14 +69,74 @@ If you use an abbreviation or an acronym, then the `<abbr>` element can be used.
     1. The `<ins>` element can be used to show content that has been inserted into a document,  while the `<del>` element can show text that has been  deleted from it.
     2. `<s>` The `<s>` element indicates something that is no longer accurate or relevant (but that should not be deleted). Visually the content of an `<s>` element will  usually be displayed with a line through the center.
 
-    
+--------------------------------------
+
+# **CSS** (Cascading Style Sheets )
+
+![css](https://www.w3docs.com/uploads/media/default/0001/05/6d07a36ebe6d55273b39440f2391f1d7e6d4092a.png)
+
+CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
 
 
+### BLOCK & INLINE ELEMENTS
+
+CSS works by associating rules with HTML elements. These rules govern
+how the content of specified elements should be displayed. A CSS rule
+contains two parts: a selector and a declaration.
+**CSS Properties Affect  Elements Are Displayed**
 
 
+![element](https://cdn.devdojo.com/guides/css/css-syntax-1469106898.png)
+
+### Using External CSS
+
+The <link> element can be used in an HTML document to tell  the browser where to find the CSS file used to style the  page. It is an empty element (meaning it does not need a  closing tag), and it lives inside the <head> element. It  should use three attributes: (*href, type, rel*).
 
 
+> `<link href="css/styles.css" type="text/css" rel="stylesheet" />`
 
+### Using Internal CSS
+
+You can also include CSS rules within an HTML page by placing them inside a `<style>` element, which usually sits  inside the `<head>` element of the page.
+
+`<style>`
+
+`<style type="text/css">`
+
+    body {
+
+    font-family: arial;
+
+    background-color: rgb(185,179,175);}
+
+    h1 {
+
+    color: rgb(255,255,255);}
+
+`</style>`
+
+### CSS Selectors
+
+![selector](https://www.csssolid.com/images/35cssselectorstoremember/25-css-selectors-cheat-sheet-part1.png)
+
+#### How Css Rules Cascade
+
+- If the two selectors are identical, the latter of the two  will take precedence. Here you can see the second i selector takes precedence over the first.
+
+- SPECIFICITY : If one selector is more specific than the  others, the more specific rule will take precedence over  more general ones. In this example:
+h1 is more specific than * p b is more specific than p p#intro is more specific than p
+
+![spec](https://devopedia.org/images/article/291/3130.1602765532.png)
+
+
+#### **Inheritance**
+If you specify the font-family or color properties on the `<body>` element, they will apply to most child elements.  This is because the value of the font-family property is inherited by child elements. It saves you from having to  apply these properties to as many elements (and results in  simpler style sheets).
+
+![Inheritance](https://miro.medium.com/max/1400/1*5efIV8jMkuEUcLs4vx_WBQ.jpeg)
+
+**Different versions of CSS & Browser Quirks :**
+
+CSS1 was released in 1996 and CSS2 followed two years later. Work on CSS3 has been ongoing but the major browsers have  already started to implement it.
 
 
 
