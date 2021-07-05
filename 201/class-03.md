@@ -62,6 +62,14 @@ in adding space between various items on the page.
 |Inline/Block (display)|**-inline/ -block/ -inline-block/ -none**|allows you to turn an inline element into a block-level  element or vice versa, and can also be used to hide an element from the page.|
 |Hiding Boxes (visibility)|**-hidden/ -visible** |to hide boxes from users but It leaves a space where the element would have been.|
 
+
+
+**For More Information about JavaScript Loops and Operation Please visit this [link](https://haneenhaashlamoun.github.io/reading-notes/102/read05)**
+
+
+![loop](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ11On_5Dk2shm7HXKEsWNigMuwITdsWY3xP9iwqwt-lurhzca-L_l9EvNvHG8qT90cUkA&usqp=CAU)
+
+
 *© Haneen Hashlamoun using Design and Build Websites by Jon Duckett*
 
 
