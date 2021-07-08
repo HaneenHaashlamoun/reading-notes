@@ -1,6 +1,6 @@
 # HTML
 
-![img](https://lh3.googleusercontent.com/proxy/J65w5X2FM4StB2d84gGTuNzWEXikKVfEZC39UHnYGfSow38u3hQoSk_jVwRiEPUaTS44hmAAaO8JejBEfcW6GlvYnuLSsIC6R9WbYpuDqseFtXoM5y4)
+![img](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/html-images-df.jpg)
 
 --------------------------------
 
