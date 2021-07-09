@@ -139,3 +139,7 @@ when they have visited a link.
  
 ![tldr](https://lh3.googleusercontent.com/proxy/BDPw1mBfg76BNhcQRll7qdYiRvaQxy4L5k2mc37ooHR8YwauzU85tqpSur3miATRQaPBk3VARFKQS7fFg2UeEWVkH4OOXLKHltz5uhQ1ALkng0-bBpu9pBqlOEBKdMak3THttcVqtpik_Ro)
 
+
+*******************************
+
+all rights reserved to Copyright: © *HTML & CSS Design and Build Websites* by **Jon Duckett**

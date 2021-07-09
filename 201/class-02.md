@@ -140,3 +140,6 @@ CSS1 was released in 1996 and CSS2 followed two years later. Work on CSS3 has be
 
 
 
+*******************************
+
+all rights reserved to Copyright: © *HTML & CSS Design and Build Websites* by **Jon Duckett**

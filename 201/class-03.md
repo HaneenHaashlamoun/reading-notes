@@ -70,6 +70,6 @@ in adding space between various items on the page.
 ![loop](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ11On_5Dk2shm7HXKEsWNigMuwITdsWY3xP9iwqwt-lurhzca-L_l9EvNvHG8qT90cUkA&usqp=CAU)
 
 
-*© Haneen Hashlamoun using Design and Build Websites by Jon Duckett*
+*******************************
 
-
+all rights reserved to Copyright: © *HTML & CSS Design and Build Websites* by **Jon Duckett**

@@ -79,3 +79,8 @@ functions, methods, and objects to organize their code.
 ### Function Declaration
 
 ![method](https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-functions/Diagram/declaration.svg)
+
+
+*******************************
+
+all rights reserved to Copyright: © *HTML & CSS Design and Build Websites* by **Jon Duckett**
