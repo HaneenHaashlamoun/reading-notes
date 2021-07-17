@@ -33,7 +33,7 @@ This site is to summarize the code 102 and 201 courses journey with daily docume
 | read07 |[HTML Tables; JS Constructor Functions](https://haneenhaashlamoun.github.io/reading-notes/201/class-07)|
 | read08 |[More CSS Layout](https://haneenhaashlamoun.github.io/reading-notes/201/class-08)|
 | read09 |[Forms and Events](https://haneenhaashlamoun.github.io/reading-notes/201/class-09)|
-| read010 |[JS Debugging](https://haneenhaashlamoun.github.io/reading-notes/201/class-10)|
+| read010 |[JS Debugging](https://haneenhaashlamoun.github.io/reading-notes/201/class-11)|
 | read11 |[Assorted Topics](https://haneenhaashlamoun.github.io/reading-notes/201/class-11)|
 | read12 |[ Docs for the HTML `<canvas>` Element & Chart.js](https://haneenhaashlamoun.github.io/reading-notes/201/class-12)|
 | read13 |[Local Storage](https://haneenhaashlamoun.github.io/reading-notes/201/class-13)|
