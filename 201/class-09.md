@@ -96,3 +96,8 @@ Together these steps are known as event handling.
 ![events](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/JavaScript-Event-Types-1200x720.jpg)
 
 ![event](https://slidetodoc.com/presentation_image/136f5d765d0686d925d0c3c7e2c96a57/image-25.jpg)
+
+*******************************
+
+all rights reserved to Copyright: © *HTML & CSS Design and Build Websites* by **Jon Duckett**
+

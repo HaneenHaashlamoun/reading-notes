@@ -52,3 +52,9 @@ and gives a description of the error.
 - If you know that you may get an error, you can handle
 it gracefully using the try, catch, finally statements.
 - Use them to give your users helpful feedback.
+
+
+*******************************
+
+all rights reserved to Copyright: © *HTML & CSS Design and Build Websites* by **Jon Duckett**
+
