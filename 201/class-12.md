@@ -89,3 +89,9 @@ In this example, we create a bar chart for a single dataset and render that in o
 >`</script>`
 
 
+
+
+*******************************
+
+all rights reserved to Copyright: © *HTML & CSS Design and Build Websites* by **Jon Duckett**
+
