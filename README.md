@@ -37,8 +37,8 @@ This site is to summarize the code 102 and 201 courses journey with daily docume
 | read11 |[Assorted Topics](https://haneenhaashlamoun.github.io/reading-notes/201/class-11)|
 | read12 |[ Docs for the HTML `<canvas>` Element & Chart.js](https://haneenhaashlamoun.github.io/reading-notes/201/class-12)|
 | read13 |[Local Storage](https://haneenhaashlamoun.github.io/reading-notes/201/class-13)|
-| read14a |[CSS Transforms, Transitions, and Animations](https://haneenhaashlamoun.github.io/reading-notes/201/class-14)|
-| read14b |[What Google Learned About Teams](https://haneenhaashlamoun.github.io/reading-notes/201/class-15)|
+| read14a |[CSS Transforms, Transitions, and Animations](https://haneenhaashlamoun.github.io/reading-notes/201/class-14b)|
+| read14b |[What Google Learned About Teams](https://haneenhaashlamoun.github.io/reading-notes/201/class-14)|
 
 
 
