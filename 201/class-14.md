@@ -23,3 +23,8 @@ for more information follow this youtube channel :
 
 
 
+
+*******************************
+
+all rights reserved to Copyright: © *HTML & CSS Design and Build Websites* by **Jon Duckett**
+
