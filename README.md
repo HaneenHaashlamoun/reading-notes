@@ -41,5 +41,21 @@ This site is to summarize the code 102 and 201 courses journey with daily docume
 | read14b |[What Google Learned About Teams](https://haneenhaashlamoun.github.io/reading-notes/201/class-14)|
 
 
+# *Code 301 Reading Notes*
 
-
+| Assignment      | Links |
+| ----------- | ----------- |
+| read01 |[Introduction to React and Components](https://haneenhaashlamoun.github.io/reading-notes/301/class-01)|
+| read02 |[State and Props](https://haneenhaashlamoun.github.io/reading-notes/301/class-02)|
+| read03 |[Passing Functions as Props](https://haneenhaashlamoun.github.io/reading-notes/301/class-03)|
+| read04 |[React and Forms](https://haneenhaashlamoun.github.io/reading-notes/301/class-04)|
+| read05 |[Putting it all together](https://haneenhaashlamoun.github.io/reading-notes/301/class-05)|
+| read06 |[NODE.JS](https://haneenhaashlamoun.github.io/reading-notes/301/class-06)|
+| read07 |[REST](https://haneenhaashlamoun.github.io/reading-notes/301/class-07)|
+| read08 |[APIs](https://haneenhaashlamoun.github.io/reading-notes/301/class-08)|
+| read09 |[FUNCTIONAL PROGRAMMING](https://haneenhaashlamoun.github.io/reading-notes/301/class-09)|
+| read10 |[In memory storage](https://haneenhaashlamoun.github.io/reading-notes/301/class-10)|
+| read11 |[Authentication](https://haneenhaashlamoun.github.io/reading-notes/301/class-11)|
+| read12 |[Mongo and Mongoose](https://haneenhaashlamoun.github.io/reading-notes/301/class-12)|
+| read13 |[CRUD](https://haneenhaashlamoun.github.io/reading-notes/301/class-13)|
+| read14 |[Diversity & Inclusion in the Tech Industry](https://haneenhaashlamoun.github.io/reading-notes/301/class-14)|
