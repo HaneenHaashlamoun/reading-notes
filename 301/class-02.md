@@ -47,3 +47,27 @@ The componentWillUnmount() method allows us to execute the React code when the c
 All the cleanups such as invalidating timers, canceling network requests, or cleaning up any subscriptions that were created in componentDidMount() should be coded in the componentWillUnmount() method block.
 # Linked List 
 Linked List is the structure where all elements are arranged in linear order, which is determined by pointer stored in each element.
+
+
+## What types of things can you pass in the props?
+What Are Props? Props (aka "properties") in React allows us to pass values from a parent component down to a child component. The values can be any data type, from strings to functions, objects, etc.
+
+## What is the big difference between props and state?
+
+The key difference between props and state is that state is internal and controlled by the component itself while props are external and controlled by whatever renders the component.
+
+![react](https://i.stack.imgur.com/wqvF2.png)
+
+## When do we re-render our application?
+React components automatically re-render whenever there is a change in their state or props. A simple update of the state, from anywhere in the code, causes all the User Interface (UI) elements to be re-rendered automatically.
+
+## What are some examples of things that we could store in state?
+
+State inside a React component is the encapsulated data that is persistent between renderings. useState() is the React hook responsible for managing state inside a functional component. I like that useState() indeed makes the work with state quite easy.
+
+### The Data Flows Down
+Neither parent nor child components can know if a certain component is stateful or stateless, and they shouldn’t care whether it is defined as a function or a class.
+
+This is why state is often called local or encapsulated. It is not accessible to any component other than the one that owns and sets it.
+
+© Haneen Hashlamoun
