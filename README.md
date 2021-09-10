@@ -55,7 +55,7 @@ This site is to summarize the code 102 and 201 courses journey with daily docume
 | read08 |[APIs](https://haneenhaashlamoun.github.io/reading-notes/301/class-08)|
 | read09 |[FUNCTIONAL PROGRAMMING](https://haneenhaashlamoun.github.io/reading-notes/301/class-09)|
 | read10 |[In memory storage](https://haneenhaashlamoun.github.io/reading-notes/301/class-10)|
-| read11 |[Authentication](https://haneenhaashlamoun.github.io/reading-notes/301/class-11)|
-| read12 |[Mongo and Mongoose](https://haneenhaashlamoun.github.io/reading-notes/301/class-12)|
+| read11 |[Mongo and Mongoose](https://haneenhaashlamoun.github.io/reading-notes/301/class-11)|
+| read12 |[Authentication](https://haneenhaashlamoun.github.io/reading-notes/301/class-12)|
 | read13 |[CRUD](https://haneenhaashlamoun.github.io/reading-notes/301/class-13)|
 | read14 |[Diversity & Inclusion in the Tech Industry](https://haneenhaashlamoun.github.io/reading-notes/301/class-14)|
