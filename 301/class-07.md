@@ -30,3 +30,6 @@ PUT method is used to update resource available on the server. Typically, it rep
 In computing, the PATCH method is a request method supported by the Hypertext Transfer Protocol (HTTP) protocol for making partial changes to an existing resource. The PATCH method provides an entity containing a list of changes to be applied to the resource requested using the HTTP Uniform Resource Identifier (URI).
 
 ![pet](https://s3-us-west-2.amazonaws.com/assertible/blog/swagger-petstore-endpoint-methods.png)
+
+
+© Haneen Hashlamoun

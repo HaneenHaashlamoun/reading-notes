@@ -64,3 +64,5 @@ While MongoDB is more flexible and ensures high and diverse data availability, a
 Disadvantages. NoSQL databases don't have the reliability functions which Relational Databases have (basically don't support ACID). This also means that NoSQL databases offer consistency in performance and scalability.
 
 ![infographic](https://miro.medium.com/max/2000/1*SbI8FV6rKx2i3mHEVk-GGw.jpeg)
+
+© Haneen Hashlamoun

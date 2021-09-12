@@ -29,3 +29,4 @@ If the client puts invalid data into the request, the server should return HTTP 
 
 ## (DELETE) If the delete operation is successful, the web server should respond with HTTP status code 204 (No Content), indicating that the process has been successfully handled, but that the response body contains no further information. If the resource doesn't exist, the web server can return HTTP 404 (Not Found).
 
+© Haneen Hashlamoun

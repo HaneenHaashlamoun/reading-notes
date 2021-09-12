@@ -43,3 +43,4 @@ You can also add conditional breakpoints by right-clicking a previous set breakp
 ## What does the word ‘debugger’ do in your code?
 Debuggers allow users to halt the execution of the program, examine the values of variables, step execution of the program line by line, and set breakpoints on lines or specific functions that, when hit, will halt execution of the program at that spot.
 
+© Haneen Hashlamoun

@@ -30,3 +30,4 @@ The require() method is used to load and cache JavaScript modules. So, if you wa
 To import our own Node JS module. var arthmetic = require("arthmetic");
 To import existing Node JS Module. Import Node JS “express” module; var arthmetic = require("express"); Import Node JS “mongoose” module; var mongoose = require("mongoose");
 
+© Haneen Hashlamoun
