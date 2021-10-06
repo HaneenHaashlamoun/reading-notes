@@ -7,7 +7,7 @@ Hello my name is Haneen Hashlamoun im 32 years I have Computer Technology Diplom
 
 This site is to summarize the code 102 and 201 courses journey with daily documentation of sources. 
 
-# *Code 102 Reading Notes*
+# *Code 102 - Intro to Software Development*
 
 | Assignment      | Links |
 | ----------- | ----------- |
@@ -20,7 +20,7 @@ This site is to summarize the code 102 and 201 courses journey with daily docume
 | read06 |[ Design web pages with CSS](https://haneenhaashlamoun.github.io/reading-notes/102/read06)|
 | read07 |[Programming with JavaScript](https://haneenhaashlamoun.github.io/reading-notes/102/read07)|
 
-# *Code 201 Reading Notes*
+# *Code 201 - Foundations of Software Development*
 
 | Assignment      | Links |
 | ----------- | ----------- |
@@ -41,7 +41,7 @@ This site is to summarize the code 102 and 201 courses journey with daily docume
 | read14b |[What Google Learned About Teams](https://haneenhaashlamoun.github.io/reading-notes/201/class-14)|
 
 
-# *Code 301 Reading Notes*
+# *Code 301 - Intermediate Software Development*
 
 | Assignment      | Links |
 | ----------- | ----------- |
@@ -59,3 +59,52 @@ This site is to summarize the code 102 and 201 courses journey with daily docume
 | read12 |[CRUD](https://haneenhaashlamoun.github.io/reading-notes/301/class-12)|
 | read13 |[Diversity & Inclusion in the Tech Industry](https://haneenhaashlamoun.github.io/reading-notes/301/class-13)|
 | read14 |[Authentication](https://haneenhaashlamoun.github.io/reading-notes/301/class-14)|
+
+
+# *Code 401 - Advanced Software Development*
+
+| Assignment      | Links |
+| ----------- | ----------- |
+| read01 |[Pain and Suffering / Beginners Guide to Big O](https://haneenhaashlamoun.github.io/reading-notes/401/class-01)|
+| read02 |[Testing and Modules](https://haneenhaashlamoun.github.io/reading-notes/401/class-02)|
+| read03 |[FileIO & Exceptions](https://haneenhaashlamoun.github.io/reading-notes/401/class-03)|
+| read04 |[Classes and Objects](https://haneenhaashlamoun.github.io/reading-notes/401/class-04)|
+| read05 |[Implementation: Linked Lists](https://haneenhaashlamoun.github.io/reading-notes/401/class-05)|
+| read06 |[Game of Greed 1](https://haneenhaashlamoun.github.io/reading-notes/401/class-06)|
+| read07 |[Game of Greed 2](https://haneenhaashlamoun.github.io/reading-notes/401/class-07)|
+| read08 |[Game of Greed 3](https://haneenhaashlamoun.github.io/reading-notes/401/class-08)|
+| read09 |[Game of Greed 4](https://haneenhaashlamoun.github.io/reading-notes/401/class-09)|
+| read10 |[Implementation: Stacks and Queues](https://haneenhaashlamoun.github.io/reading-notes/401/class-10)|
+| read11 |[Readings: Data Analysis](https://haneenhaashlamoun.github.io/reading-notes/401/class-11)|
+| read12 |[Pandas in 10](https://haneenhaashlamoun.github.io/reading-notes/401/class-12)|
+| read13 |[Linear Regressions](https://haneenhaashlamoun.github.io/reading-notes/401/class-13)|
+| read14 |[Data Visualization](https://haneenhaashlamoun.github.io/reading-notes/401/class-14)|
+| read15 |[Implementation: Trees](https://haneenhaashlamoun.github.io/reading-notes/401/class-15)|
+| read16 |[Machine Learning Intro](https://haneenhaashlamoun.github.io/reading-notes/401/class-16)|
+| read17 |[Web Scraping](https://haneenhaashlamoun.github.io/reading-notes/401/class-17)|
+| read18 |[Cryptography](https://haneenhaashlamoun.github.io/reading-notes/401/class-18)|
+| read19 |[Automation](https://haneenhaashlamoun.github.io/reading-notes/401/class-19)|
+| read20 |[Intro to Django](https://haneenhaashlamoun.github.io/reading-notes/401/class-26)|
+| read21 |[Django Models](https://haneenhaashlamoun.github.io/reading-notes/401/class-27)|
+| read22 |[Django CRUD and Forms](https://haneenhaashlamoun.github.io/reading-notes/401/class-28)|
+| read23 |[Django Custom User](https://haneenhaashlamoun.github.io/reading-notes/401/class-29)|
+| read24 |[Implementation: Hash Tables](https://haneenhaashlamoun.github.io/reading-notes/401/class-30)|
+| read25 |[Django REST Framework & Docker](https://haneenhaashlamoun.github.io/reading-notes/401/class-31)|
+| read26 |[Permissions & Postgresql](https://haneenhaashlamoun.github.io/reading-notes/401/class-32)|
+| read27 |[Authentication & Production Server](https://haneenhaashlamoun.github.io/reading-notes/401/class-33)|
+| read28 |[API Deployment](https://haneenhaashlamoun.github.io/reading-notes/401/class-34)|
+| read29 |[Graphs](https://haneenhaashlamoun.github.io/reading-notes/401/class-35)|
+| read30 |[DSA Review](https://haneenhaashlamoun.github.io/reading-notes/401/class-36)|
+| read31 |[React 1](https://haneenhaashlamoun.github.io/reading-notes/401/class-37)|
+| read32 |[React 2](https://haneenhaashlamoun.github.io/reading-notes/401/class-38)|
+| read34 |[React 3](https://haneenhaashlamoun.github.io/reading-notes/401/class-39)|
+| read35 |[React 4](https://haneenhaashlamoun.github.io/reading-notes/401/class-40)|
+| read36 |[React 4](https://haneenhaashlamoun.github.io/reading-notes/401/class-41)|
+| read37-a |[Pythonisms](https://haneenhaashlamoun.github.io/reading-notes/401/class-42-a)|
+| read37-b |[Ethics](https://haneenhaashlamoun.github.io/reading-notes/401/class-42-b)|
+| read38 |[Open-Source Software Contribution](https://haneenhaashlamoun.github.io/reading-notes/401/class-43)|
+
+
+----------------------------------------------
+© Haneen Hashlamoun
+
