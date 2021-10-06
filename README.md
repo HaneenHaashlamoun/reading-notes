@@ -65,7 +65,7 @@ This site is to summarize the code 102 and 201 courses journey with daily docume
 
 | Assignment      | Links |
 | ----------- | ----------- |
-| read01 |[Pain and Suffering / Beginners Guide to Big O](https://haneenhaashlamoun.github.io/reading-notes/401/class-01)|
+| read01 |[Beginners Guide to Big O](https://haneenhaashlamoun.github.io/reading-notes/401/class-01)|
 | read02 |[Testing and Modules](https://haneenhaashlamoun.github.io/reading-notes/401/class-02)|
 | read03 |[FileIO & Exceptions](https://haneenhaashlamoun.github.io/reading-notes/401/class-03)|
 | read04 |[Classes and Objects](https://haneenhaashlamoun.github.io/reading-notes/401/class-04)|
