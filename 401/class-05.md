@@ -174,3 +174,7 @@ Big O(oh): This notation describes the Worst Case for an algorithm. The Order of
 Big Omega: This notation describes the Best Case for a given algorithm. The Order of Growth used represents the lower bounds of Time and Space.
 Big Theta: This notation describes the Average Case. The Order of Growth used represents the tight bound of Time and Space.
 We use the term tight since, in order to predict a “typical” input, we need an idea of what makes our function perform better or worse. Tight means that the upper and lower can both be set by this Order of Growth.
+
+
+    
+© Haneen Hashlamoun
