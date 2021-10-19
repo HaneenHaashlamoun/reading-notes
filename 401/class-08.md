@@ -146,3 +146,5 @@ print double
  [x+y for x in [10,30,50] for y in [20,40,60]]
 [30, 50, 70, 50, 70, 90, 70, 90, 110]
 
+    
+© Haneen Hashlamoun
